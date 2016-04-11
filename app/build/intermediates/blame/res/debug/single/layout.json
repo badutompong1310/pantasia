@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_list.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\activity_test_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bcr_setup.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\bcr_setup.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detailed_test_list.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\activity_detailed_test_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\symbologies.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\symbologies.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inputsimul.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\inputsimul.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\looptest.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\looptest.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signature.xml",
+        "source": "D:\\AndroidStudioProjects\\PointOfSale\\PointOfSale4.11.2016\\PointOfSale\\app\\src\\main\\res\\layout\\signature.xml"
+    }
+]
